@@ -4,4 +4,4 @@ this is my readme file. Brad modified this.
 
 Paul added this sentence to the file. 
 
-Professor Tor Coolguy fixed this bug, but failed to fix a different one.
+Professor Tor Coolguy fixed this bug.
